@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af88810f.css",
+    "main.js": "/static/js/main.9d313a96.js",
+    "static/js/787.7f46c72d.chunk.js": "/static/js/787.7f46c72d.chunk.js",
+    "static/media/Strawberries.png": "/static/media/Strawberries.8458326f3f6916a026d0.png",
+    "static/media/Vegetable.png": "/static/media/Vegetable.69fc2e9e471c8785f69f.png",
+    "static/media/Feast.png": "/static/media/Feast.0134cf2cf7122051872d.png",
+    "static/media/Dumplings.png": "/static/media/Dumplings.34a97a09da9a562e663a.png",
+    "static/media/lychee.png": "/static/media/lychee.1a4341bdcdce099fde6f.png",
+    "static/media/Broccoli.png": "/static/media/Broccoli.aea934ea0003315773b9.png",
+    "static/media/Cashew.png": "/static/media/Cashew.ae620e3ccfbcc6cdd6dd.png",
+    "static/media/yoghurt.png": "/static/media/yoghurt.17c9e1aca32eb3587d07.png",
+    "index.html": "/index.html",
+    "main.af88810f.css.map": "/static/css/main.af88810f.css.map",
+    "main.9d313a96.js.map": "/static/js/main.9d313a96.js.map",
+    "787.7f46c72d.chunk.js.map": "/static/js/787.7f46c72d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af88810f.css",
+    "static/js/main.9d313a96.js"
+  ]
+}
